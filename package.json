@@ -6,7 +6,7 @@
     "sass": "sass --watch src/style.scss build/style.css",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "SrDev-Henrique",
+  "author": "",
   "license": "ISC",
   "description": "",
   "devDependencies": {
